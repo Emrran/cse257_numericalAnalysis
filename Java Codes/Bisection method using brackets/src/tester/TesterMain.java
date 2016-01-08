@@ -1,4 +1,5 @@
 package tester;
+
 import bisectionMethodIteration.BisectionIterativeBracket;
 
 public class TesterMain {
@@ -7,7 +8,6 @@ public class TesterMain {
 		
 		BisectionIterativeBracket x = new BisectionIterativeBracket();
 		x.doWork();
-
 	}
 
 }
